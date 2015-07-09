@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Wiley-login">
+	<test name="Login-Logout">
+		<classes>
+			<class name="com.ng.Login" />
+		</classes>
+	</test>
+	<test name="Search">
+		<classes>
+			<class name="com.ng.SearchISBN" />
+		</classes>
+	</test>
+	<test name="MetaDataprocessing Status">
+		<classes>
+			<class name="com.ng.Metadataprocessingstatus" />
+		</classes>
+	</test>
+	<test name="Vendor Creation">
+		<classes>
+			<class name="com.ng.CreateVendor" />
+		</classes>
+	</test>
+</suite>
